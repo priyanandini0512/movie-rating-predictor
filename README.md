@@ -30,5 +30,5 @@ Alternatively, you can run the notebook in **Google Colab** by opening `Movie_Ra
 The model is evaluated using **Root Mean Squared Error (RMSE)** to measure its prediction accuracy.
 
 ## Contributors
-- [Your Name]
+- Priyanandini Vaka
 
